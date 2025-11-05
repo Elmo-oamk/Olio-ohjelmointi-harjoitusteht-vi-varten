@@ -1,0 +1,7 @@
+C:/Users/elemo/OneDrive/Työpöytä/Koulu asiat/OlioOhjelmointi/untitled/build/CMakeFiles/untitled.dir
+C:/Users/elemo/OneDrive/Työpöytä/Koulu asiat/OlioOhjelmointi/untitled/build/CMakeFiles/edit_cache.dir
+C:/Users/elemo/OneDrive/Työpöytä/Koulu asiat/OlioOhjelmointi/untitled/build/CMakeFiles/rebuild_cache.dir
+C:/Users/elemo/OneDrive/Työpöytä/Koulu asiat/OlioOhjelmointi/untitled/build/CMakeFiles/list_install_components.dir
+C:/Users/elemo/OneDrive/Työpöytä/Koulu asiat/OlioOhjelmointi/untitled/build/CMakeFiles/install.dir
+C:/Users/elemo/OneDrive/Työpöytä/Koulu asiat/OlioOhjelmointi/untitled/build/CMakeFiles/install/local.dir
+C:/Users/elemo/OneDrive/Työpöytä/Koulu asiat/OlioOhjelmointi/untitled/build/CMakeFiles/install/strip.dir
