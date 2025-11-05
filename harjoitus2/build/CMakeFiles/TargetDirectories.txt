@@ -1,0 +1,7 @@
+C:/Users/elemo/OneDrive/Työpöytä/Koulu asiat/OlioOhjelmointi/harjoitus2/build/CMakeFiles/harjoitus2.dir
+C:/Users/elemo/OneDrive/Työpöytä/Koulu asiat/OlioOhjelmointi/harjoitus2/build/CMakeFiles/edit_cache.dir
+C:/Users/elemo/OneDrive/Työpöytä/Koulu asiat/OlioOhjelmointi/harjoitus2/build/CMakeFiles/rebuild_cache.dir
+C:/Users/elemo/OneDrive/Työpöytä/Koulu asiat/OlioOhjelmointi/harjoitus2/build/CMakeFiles/list_install_components.dir
+C:/Users/elemo/OneDrive/Työpöytä/Koulu asiat/OlioOhjelmointi/harjoitus2/build/CMakeFiles/install.dir
+C:/Users/elemo/OneDrive/Työpöytä/Koulu asiat/OlioOhjelmointi/harjoitus2/build/CMakeFiles/install/local.dir
+C:/Users/elemo/OneDrive/Työpöytä/Koulu asiat/OlioOhjelmointi/harjoitus2/build/CMakeFiles/install/strip.dir
